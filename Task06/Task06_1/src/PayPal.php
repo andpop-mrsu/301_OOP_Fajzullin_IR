@@ -13,8 +13,14 @@ class PayPal
         $this->password = $password;
     }
 
+<<<<<<< HEAD
     public function transfer($email, $amount)
     {
         return "Paypal Success!";
+=======
+    public function authorizeTransaction($amount)
+    {
+        return "PayPal Success!";
+>>>>>>> student/Task06
     }
 }

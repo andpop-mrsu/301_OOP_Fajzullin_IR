@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\PaymentAdapterInterfaceTest::testPayPalAdapter":0.004,"App\\Tests\\PaymentAdapterInterfaceTest::testCreditCardAdapter":0}}
